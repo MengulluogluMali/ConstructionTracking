@@ -1,0 +1,10 @@
+C:\Users\Monster\Desktop\Proje\Workers\Workers\bin\Debug\Workers.exe.config
+C:\Users\Monster\Desktop\Proje\Workers\Workers\bin\Debug\Workers.exe
+C:\Users\Monster\Desktop\Proje\Workers\Workers\bin\Debug\Workers.pdb
+C:\Users\Monster\Desktop\Proje\Workers\Workers\obj\Debug\Workers.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Proje\Workers\Workers\obj\Debug\Workers.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Proje\Workers\Workers\obj\Debug\Workers.exe
+C:\Users\Monster\Desktop\Proje\Workers\Workers\obj\Debug\Workers.pdb
+C:\Users\Monster\Desktop\Proje\Workers\Workers\bin\Debug\System.Data.OleDb.dll
+C:\Users\Monster\Desktop\Proje\Workers\Workers\bin\Debug\System.Data.OleDb.xml
+C:\Users\Monster\Desktop\Proje\Workers\Workers\obj\Debug\Workers.csproj.CopyComplete

@@ -1,0 +1,10 @@
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\bin\Debug\MainPage.exe.config
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\bin\Debug\MainPage.exe
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\bin\Debug\MainPage.pdb
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.csproj.AssemblyReference.cache
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.Properties.Resources.resources
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.csproj.GenerateResource.cache
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.csproj.CoreCompileInputs.cache
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.exe
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.pdb
+C:\Users\Monster\Desktop\Proje\MainPage\MainPage\obj\Debug\MainPage.Main.resources
